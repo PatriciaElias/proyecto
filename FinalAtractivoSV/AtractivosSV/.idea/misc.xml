@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_agregando.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_arqueologico.xml" value="0.25" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_balnearios.xml" value="0.25" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_catedrales.xml" value="0.25" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_informacion_lugar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_lagos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_miradores.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_montanias.xml" value="0.33" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_new_montania.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_new_volcan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_nuevo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_playas.xml" value="0.33" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_registrar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_rutas.xml" value="0.2985529322162985" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/activity_volcanes.xml" value="0.25" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewarqueologico.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewbalnearios.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewcatedrales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewlagos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewmiradores.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewmontanias.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewplayas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewrutas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Edwin/AndroidStudioProjects/AtractivosSV/app/src/main/res/layout/listviewvolcanes.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtractivosSV</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="btn_login">Acceder</string>
+    <string name="btn_registrar">Registrar</string>
+</resources>

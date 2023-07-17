@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--Clase creada para generar el diseño de los botones personalizados(CIRCULARES)-->
+    <solid android:color="#5652CA"></solid>
+    <size android:width="60dp" android:height="60dp"></size>
+    <corners android:radius="60dp"></corners>
+    <stroke android:color="@color/purple_700" android:width="2dp"></stroke>
+</shape>

@@ -1,0 +1,21 @@
+NOTAS:
+
+Al momento de querer ejecutar el archivo es posible surja un error gracias a la utilizacion 
+de versiones diferentes a la que cada persona posee, tanto como de IDE, JDK o GRADLE entre otras; 
+
+Conforme la version de GRADLE se puede llegar a solucionar modificando la version de GRADLE  
+en el archivo "build.gradle(AtractivosSV)" y sustituyendolo por el utilizado en el sitema del receptor.
+
+EJEMPLO:
+
+dependencies {
+        classpath 'com.android.tools.build:  =========>   gradle:4.2.2'   <=========
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+
+=======================================================================================================
+
+Se ha comentariado todo lo realizado en el proyecto ecepto los LAYOUT ya que estos solo poseen la
+parte grafica de las pantallas y no una parte logica.(TODO LO DEMAS SI POSEE UNA DESCRIPCION)

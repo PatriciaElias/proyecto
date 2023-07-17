@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AtractivosSV</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="btn_login">Acceder</string>
+    <string name="btn_registrar">Registrar</string>
+
+    <!--TEX VIEW(ETIQUETAS MENU)-->
+    <string name="tv_playa">Playas</string>
+    <string name="tv_lago">Lagos</string>
+    <string name="tv_balneario">Balnearios</string>
+    <string name="tv_ruta">Rutas</string>
+    <string name="tv_volcan">Volcanes</string>
+    <string name="tv_mirador">Miradores</string>
+    <string name="tv_montania">Montañas</string>
+    <string name="tv_arqueologico">Arqueologicos</string>
+    <string name="tv_catedral">Catedrales</string>
+    <string name="btn_agregar_datos">Agregar</string>
+
+    <!--TEX VIEW(ETIQUETAS TITULOS)-->
+    <string name="tv_playaIMG">Playas de El Salvador</string>
+    <string name="tv_lagoIMG">Lagos de El Salvador</string>
+    <string name="tv_balnearioIMG">Balnearios de El Salvador</string>
+    <string name="tv_rutaIMG">Rutas turisticas de El Salvador</string>
+    <string name="tv_volcanIMG">Volcanes de El Salvador</string>
+    <string name="tv_miradorIMG">Miradores de El Salvador</string>
+    <string name="tv_montaniaIMG">Montañas de El Salvador</string>
+    <string name="tv_arqueologicoIMG">Sitios Arqueologicos de El Salvador</string>
+    <string name="tv_catedralIMG">Catedrales de El Salvador</string>
+
+    <!--DESCRIPCION GENERAL DE BOTONES)-->
+    <string name="imb_descripcion">Este es un boton accesor a una categoria de lugar</string>
+    <string name="imb_retroceder">Este es un boton de retroceso</string>
+
+    <!--IMAGE VIEW(IMAGENES DE ENCABEZADO)-->
+    <string name="imgv_encabezados">Imagen de encabezado</string>
+
+    <!--TEXTO HINT(REGISTRAR USUARIO)-->
+    <string name="tv_nuevoUsuario">Usuario nuevo</string>
+    <string name="txt_name">Nombres</string>
+    <string name="txt_apellidos">Apellidos</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_constrasenia">Constraseña</string>
+    <string name="btn_guardar">Guardar</string>
+
+    <!--TEXTO HINT(SUGERIR LUGARES)-->
+    <string name="tv_nuevoBalneario">Sugerir nuevo balneario</string>
+    <string name="tv_nuevaPlaya">Sugerir nueva playa</string>
+    <string name="tv_nuevaLago">Sugerir nuevo lago</string>
+    <string name="tv_nuevaCatedral">Sugerir nueva catedral</string>
+    <string name="tv_nuevaRuta">Sugerir nueva ruta</string>
+    <string name="tv_nuevoArqueologico">Sugerir nuevo sitio arqueologico</string>
+    <string name="tv_nuevaVolcan">Sugerir nuevo volcan</string>
+    <string name="tv_nuevaMontania">Sugerir nueva montaña</string>
+    <string name="tv_nuevoMirador">Sugerir nuevo mirador</string>
+
+    <!--TEXTO (SUGERIR LUGARES-MOSTRAR LUGARES)-->
+    <string name="txt_nameL">Nombre: </string>
+    <string name="txt_departamentoL">Departamento: </string>
+    <string name="txt_municipioL">Municipio: </string>
+    <string name="txt_descripcionL">Descripcion: </string>
+
+
+</resources>
